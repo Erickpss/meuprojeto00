@@ -1,0 +1,19 @@
+span { color:orange}
+h1 {   font-family: "Open Sans", sans-serif;}
+p, a{  font-optical-sizing: auto; font-weight: weight}
+body { text-align: center;}
+#hero { width: 1280px;margin: auto;}
+p, a , div{ font-size: 24px; line-height: 28px;}
+#hero img { margin-bottom: 72px;}
+h1 { margin-bottom: 32px;}
+#footer a + a {margin-left: 28px;}
+#line {width: 568;
+        height: 0px;
+        border: 1px rgb(158, 158, 158) solid  ;
+       margin: 0 auto 8px; }
+        /* 'dashed' para fazer uma linha de tracinhos */
+        /* 'class ' para repetir 'id' usar '.' para usar o 'class'*/
+        /*#balls {position: fixed;top: 33px;
+        right: 0px;
+          margin:center;} comando de posicionamento*/
+a {margin-bottom: 22px;}
